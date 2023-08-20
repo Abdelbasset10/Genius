@@ -52,7 +52,7 @@ const ProModal = () => {
                 <DialogHeader>
                 <DialogDescription className="flex items-center justify-center gap-x-2" >
                     <p className="font-bold text-black text-lg" >Upgrade to Genius</p>
-                    <Badge variant="premium" className="py-1">PRO</Badge>    
+                    <Badge variant="premium" className="py-1">PROss</Badge>    
                 </DialogDescription>
                 </DialogHeader>   
                 <div className="mt-4 flex flex-col gap-3" > 
